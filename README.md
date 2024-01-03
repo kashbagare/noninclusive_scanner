@@ -18,7 +18,7 @@ For the test run, we are using a section named **SCANNER** in database.ini.
 
 ````
 cd ~/downloaded_dir/noninclusive_scanner
-python install setup.py
+python setup.py install
 ````
 
 ### Run the program in wrapper python script as
